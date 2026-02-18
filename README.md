@@ -39,7 +39,7 @@ Todo funciona de manera asíncrona usando asyncio, lo que permite manejar múlti
 
 Clona el repositorio:
 
-git clone [https://github.com/tuusuario/pulseinvest-api.git](https://github.com/tuusuario/pulseinvest-api.git)
+git clone https://github.com/ishxgx/PulseInvestAPI.git
 cd pulseinvest-api
 
 Crea un entorno virtual:
